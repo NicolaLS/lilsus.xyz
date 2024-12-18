@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on sus</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on sus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Dec 2024 05:21:31 -0600</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Gpg Key</title>
+      <link>http://localhost:1313/posts/my-gpg-key/</link>
+      <pubDate>Thu, 19 Dec 2024 05:21:31 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-gpg-key/</guid>
+      <description>&lt;h1 id=&#34;import-my-gpg-key&#34;&gt;Import my GPG key&lt;/h1&gt;
+&lt;p&gt;You can get my GPG key from &lt;a href=&#34;http://localhost:1313/gpg_key.asc/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;import&#34;&gt;Import&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;curl https://lilsus.xyz/gpg_key.asc | gpg --import&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;fingerprint&#34;&gt;Fingerprint&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;6B79 4020 4E08 6011 A604  635F 578C 0B1E E9A4 C694&lt;/code&gt;&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;import-my-gpg-key&#34;&gt;Import my GPG key&lt;/h1&gt;
+&lt;p&gt;You can get my GPG key from &lt;a href=&#34;http://localhost:1313/gpg_key.asc/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;import&#34;&gt;Import&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;curl https://lilsus.xyz/gpg_key.asc | gpg --import&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;fingerprint&#34;&gt;Fingerprint&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;6B79 4020 4E08 6011 A604  635F 578C 0B1E E9A4 C694&lt;/code&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Thu, 19 Dec 2024 05:14:07 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;test-post&#34;&gt;Test Post&lt;/h1&gt;
+&lt;p&gt;First post to test.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;test-post&#34;&gt;Test Post&lt;/h1&gt;
+&lt;p&gt;First post to test.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
